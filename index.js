@@ -1,2 +1,2 @@
-import markdownlint from './lib/markdownlint.js';
-export default markdownlint;
+const markdownlint = require('./lib/markdownlint.js');
+module.exports = './lib/markdownlint.js';

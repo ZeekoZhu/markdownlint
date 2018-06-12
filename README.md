@@ -1,5 +1,7 @@
 # markdownlint
 
+> forked from [https://github.com/DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint), remove file system related api.
+> 
 > A Node.js style checker and lint tool for Markdown/CommonMark files.
 
 [![npm version][npm-image]][npm-url]

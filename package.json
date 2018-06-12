@@ -48,8 +48,5 @@
         "md",
         "CommonMark",
         "markdownlint"
-    ],
-    "browser": {
-        "markdown-it": "./demo/markdown-it-stub.js"
-    }
+    ]
 }
